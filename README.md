@@ -1,4 +1,4 @@
 LetzGossip
 ==========
 
-Gossip based monitoring and metrics tool on python
+Gossip based monitoring and metrics tool.
